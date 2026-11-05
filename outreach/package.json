@@ -1,0 +1,17 @@
+{
+  "name": "solar-outreach",
+  "version": "1.0.0",
+  "description": "Personal WhatsApp outreach system for solar prospects in Abuja and Lagos: lead discovery, paced sending across two accounts, dashboard.",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.5"
+  },
+  "scripts": {
+    "init": "node scripts/init-env.mjs",
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "gateways": "node scripts/gateways.mjs",
+    "test": "node --test --no-warnings test/*.test.js"
+  }
+}

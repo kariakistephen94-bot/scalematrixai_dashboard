@@ -1,0 +1,405 @@
+{
+  "Nigeria": {
+    "region": "NG",
+    "unit": "Cities",
+    "tiers": {
+      "priority": [
+        {
+          "area": "Abuja",
+          "city": "Abuja",
+          "aliases": ["FCT"]
+        },
+        {
+          "area": "Lagos",
+          "city": "Lagos",
+          "aliases": []
+        },
+        {
+          "area": "Port Harcourt",
+          "city": "Port Harcourt",
+          "aliases": ["Rivers"]
+        }
+      ]
+    },
+    "sources": []
+  },
+  "United States": {
+    "region": "US",
+    "unit": "States",
+    "tiers": {
+      "higher": [
+        {
+          "area": "New York",
+          "city": "New York City, New York",
+          "aliases": [
+            "NY",
+            "NYC",
+            "Manhattan",
+            "Brooklyn",
+            "Queens",
+            "Bronx",
+            "Staten Island",
+            "Albany",
+            "Buffalo",
+            "Rochester",
+            "Syracuse",
+            "Yonkers",
+            "Long Island",
+            "Westchester"
+          ]
+        },
+        {
+          "area": "Massachusetts",
+          "city": "Boston, Massachusetts",
+          "aliases": [
+            "MA",
+            "Worcester",
+            "Springfield",
+            "Cambridge",
+            "Lowell",
+            "Brockton",
+            "Quincy",
+            "New Bedford",
+            "Fall River",
+            "Somerville"
+          ]
+        },
+        {
+          "area": "Washington",
+          "city": "Seattle, Washington",
+          "aliases": [
+            "WA",
+            "Tacoma",
+            "Spokane",
+            "Bellevue",
+            "Olympia",
+            "Everett",
+            "Bellingham"
+          ]
+        }
+      ],
+      "middle": [
+        {
+          "area": "Pennsylvania",
+          "city": "Philadelphia, Pennsylvania",
+          "aliases": [
+            "PA",
+            "Pittsburgh",
+            "Allentown",
+            "Erie",
+            "Scranton",
+            "Harrisburg",
+            "Bethlehem"
+          ]
+        },
+        {
+          "area": "Ohio",
+          "city": "Columbus, Ohio",
+          "aliases": [
+            "OH",
+            "Cleveland",
+            "Cincinnati",
+            "Toledo",
+            "Akron",
+            "Dayton",
+            "Youngstown"
+          ]
+        },
+        {
+          "area": "Wisconsin",
+          "city": "Milwaukee, Wisconsin",
+          "aliases": [
+            "WI",
+            "Madison",
+            "Green Bay",
+            "Kenosha",
+            "Racine",
+            "Appleton",
+            "Eau Claire",
+            "Waukesha",
+            "Oshkosh"
+          ]
+        }
+      ],
+      "lower": [
+        {
+          "area": "Mississippi",
+          "city": "Jackson, Mississippi",
+          "aliases": [
+            "MS",
+            "Gulfport",
+            "Southaven",
+            "Hattiesburg",
+            "Biloxi",
+            "Tupelo",
+            "Meridian"
+          ]
+        },
+        {
+          "area": "West Virginia",
+          "city": "Charleston, West Virginia",
+          "aliases": [
+            "WV",
+            "Huntington",
+            "Morgantown",
+            "Parkersburg",
+            "Wheeling",
+            "Fairmont",
+            "Martinsburg",
+            "Beckley"
+          ]
+        },
+        {
+          "area": "Arkansas",
+          "city": "Little Rock, Arkansas",
+          "aliases": [
+            "AR",
+            "Fort Smith",
+            "Fayetteville",
+            "Springdale",
+            "Jonesboro",
+            "Rogers",
+            "Bentonville"
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "title": "BEA state GDP data",
+        "url": "https://www.bea.gov/data/gdp/gdp-state"
+      }
+    ]
+  },
+  "United Kingdom": {
+    "region": "GB",
+    "unit": "Regions",
+    "tiers": {
+      "higher": [
+        {
+          "area": "London",
+          "city": "London",
+          "aliases": []
+        },
+        {
+          "area": "South East",
+          "city": "Reading, South East",
+          "aliases": [
+            "Berkshire",
+            "Buckinghamshire",
+            "East Sussex",
+            "Hampshire",
+            "Isle of Wight",
+            "Kent",
+            "Oxfordshire",
+            "Surrey",
+            "West Sussex",
+            "Oxford",
+            "Southampton",
+            "Portsmouth",
+            "Brighton",
+            "Guildford",
+            "Maidstone",
+            "Milton Keynes"
+          ]
+        },
+        {
+          "area": "Scotland",
+          "city": "Edinburgh, Scotland",
+          "aliases": [
+            "Glasgow",
+            "Aberdeen",
+            "Dundee",
+            "Inverness",
+            "Stirling",
+            "Fife",
+            "Lanarkshire",
+            "Aberdeenshire"
+          ]
+        }
+      ],
+      "middle": [
+        {
+          "area": "South West",
+          "city": "Bristol, South West",
+          "aliases": [
+            "Devon",
+            "Cornwall",
+            "Dorset",
+            "Gloucestershire",
+            "Somerset",
+            "Wiltshire",
+            "Bournemouth",
+            "Plymouth",
+            "Exeter",
+            "Swindon",
+            "Cheltenham",
+            "Bath",
+            "Gloucester"
+          ]
+        },
+        {
+          "area": "North West",
+          "city": "Manchester, North West",
+          "aliases": [
+            "Liverpool",
+            "Lancashire",
+            "Cheshire",
+            "Cumbria",
+            "Greater Manchester",
+            "Merseyside",
+            "Preston",
+            "Warrington",
+            "Blackpool",
+            "Bolton",
+            "Lancaster"
+          ]
+        },
+        {
+          "area": "East of England",
+          "city": "Cambridge, East of England",
+          "aliases": [
+            "East England",
+            "Cambridgeshire",
+            "Essex",
+            "Hertfordshire",
+            "Bedfordshire",
+            "Norfolk",
+            "Suffolk",
+            "Norwich",
+            "Ipswich",
+            "Chelmsford",
+            "Colchester",
+            "Watford",
+            "Bedford",
+            "Luton",
+            "Peterborough",
+            "St Albans"
+          ]
+        }
+      ],
+      "lower": [
+        {
+          "area": "North East",
+          "city": "Newcastle upon Tyne, North East",
+          "aliases": [
+            "Newcastle",
+            "Sunderland",
+            "Gateshead",
+            "Durham",
+            "Middlesbrough",
+            "Darlington",
+            "Hartlepool",
+            "Northumberland",
+            "Tyne and Wear"
+          ]
+        },
+        {
+          "area": "Wales",
+          "city": "Cardiff, Wales",
+          "aliases": [
+            "Swansea",
+            "Wrexham",
+            "Newport",
+            "Bangor",
+            "Llandudno",
+            "Gwynedd",
+            "Powys",
+            "Ceredigion",
+            "Caerphilly",
+            "Monmouthshire"
+          ]
+        },
+        {
+          "area": "East Midlands",
+          "city": "Nottingham, East Midlands",
+          "aliases": [
+            "Derby",
+            "Leicester",
+            "Lincoln",
+            "Northampton",
+            "Northamptonshire",
+            "Nottinghamshire",
+            "Derbyshire",
+            "Leicestershire",
+            "Lincolnshire",
+            "Rutland",
+            "Chesterfield",
+            "Mansfield",
+            "Loughborough",
+            "Kettering"
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "title": "ONS regional GDP per head",
+        "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/regionaleconomicactivitybygrossdomesticproductuk/1998to2023"
+      }
+    ]
+  },
+  "China": {
+    "region": "CN",
+    "unit": "Provinces and municipalities",
+    "tiers": {
+      "higher": [
+        {
+          "area": "Beijing",
+          "city": "Beijing",
+          "aliases": ["北京"]
+        },
+        {
+          "area": "Shanghai",
+          "city": "Shanghai",
+          "aliases": ["上海"]
+        },
+        {
+          "area": "Jiangsu",
+          "city": "Nanjing, Jiangsu",
+          "aliases": ["江苏", "南京"]
+        }
+      ],
+      "middle": [
+        {
+          "area": "Sichuan",
+          "city": "Chengdu, Sichuan",
+          "aliases": ["四川", "成都"]
+        },
+        {
+          "area": "Jiangxi",
+          "city": "Nanchang, Jiangxi",
+          "aliases": ["江西", "南昌"]
+        },
+        {
+          "area": "Hainan",
+          "city": "Haikou, Hainan",
+          "aliases": ["海南", "海口"]
+        }
+      ],
+      "lower": [
+        {
+          "area": "Gansu",
+          "city": "Lanzhou, Gansu",
+          "aliases": ["甘肃", "兰州"]
+        },
+        {
+          "area": "Heilongjiang",
+          "city": "Harbin, Heilongjiang",
+          "aliases": ["黑龙江", "哈尔滨"]
+        },
+        {
+          "area": "Guangxi",
+          "city": "Nanning, Guangxi",
+          "aliases": ["广西", "南宁"]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "title": "2024 provincial GDP per person",
+        "url": "https://tj.jiangsu.gov.cn/2025/nj21/nj2101.htm"
+      }
+    ]
+  }
+}
